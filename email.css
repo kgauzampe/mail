@@ -43,6 +43,8 @@ background-position: cover;
     column-rule-style: solid;
     margin-top: 1em;
     margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
     /* margin: 3em; */
   }
 .images {
